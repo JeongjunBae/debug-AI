@@ -129,6 +129,8 @@ During inference, the confidence for other crop types is set to 0, so they are n
 
 # [Technique 3] Augmentation
 
+![image](https://user-images.githubusercontent.com/80030558/172644234-f3677835-2e70-4e09-8eb3-88e0ed69ced1.png)
+
 # Ablation Study
 
 | ![image](https://user-images.githubusercontent.com/80030558/172643212-0fad9854-b2ef-4a3b-9a95-b49902acce0d.png) | ![image](https://user-images.githubusercontent.com/80030558/172643419-f96f3f75-ea4a-45af-ae0a-959b980d0ebd.png) |
